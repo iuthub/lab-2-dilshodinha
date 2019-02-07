@@ -1,0 +1,23 @@
+body {
+	background-color: lightgrey;
+	
+}
+.lesson {
+	list-style-type: none;
+}
+h1, h2 {
+	color: blue;
+	font-family: Verdana;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 24px;
+}
+h2 {
+	font-size: 18px;
+}
+.myimages {
+	width: 400px;
+	height: 300px;
+}
